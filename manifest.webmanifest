@@ -3,12 +3,12 @@
   "short_name": "VocabVault",
   "icons": [
     {
-      "src": "https://tranthanhtuyen-94.github.io/assets/treasure.png",
+      "src": "assets/treasure-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://tranthanhtuyen-94.github.io/assets/treasure.png",
+      "src": "assets/treasure-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
